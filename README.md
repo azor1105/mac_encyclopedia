@@ -1,16 +1,9 @@
-# encyclopedia
+# mac_encyclopedia
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hi guys. So this project I have  created while learning scrollable widgets.
+This project had focused to learing scrollable widgets and creating mock data.
+I had used gradient colors and "Sliver app bar".
+So I know if design looks strange.
+But I had tried to create more informationable encyclopedia about "Mac's".
+So I reckon that you can found absorbing information and really cool widgets.
+So bye, bye.
